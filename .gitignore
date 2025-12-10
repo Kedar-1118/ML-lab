@@ -1,2 +1,8 @@
-.pdf
-.csv
+*.pdf
+*.csv
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.mp4
+*.mov
